@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: ''
+      text: Dental Assist Albania
       color: text-dark
       type: TitleBlock
     subtitle: >-
