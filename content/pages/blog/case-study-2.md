@@ -9,7 +9,7 @@ excerpt: >-
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
   url: /images/img-placeholder.svg
-  altText: Case study 2
+  altText: Therapy
   styles:
     self:
       borderRadius: x-large
