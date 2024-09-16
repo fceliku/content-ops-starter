@@ -67,10 +67,7 @@ sections:
       - type: FeaturedItem
         title: 1k
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "We provide a comprehensive experience that ensures your comfort and convenience from start to finish.\_\n\n"
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
