@@ -26,7 +26,7 @@ styles:
     flexDirection: col
 isFeatured: false
 ---
-**1. Booking a Hotel: Ensuring Comfort from the Start**
+****
 
 ### **Understanding the Patient's Needs**
 
@@ -43,6 +43,4 @@ When a patient travels to your dental clinic from out of town, their experience 
 *   **Welcome Kits**: Consider preparing a welcome kit for patients that includes maps, local attractions, and information about the hotel’s amenities.
 
 *   **Personalized Communication**: Confirm the hotel booking and provide contact details for any additional questions or concerns.
-
-
 
