@@ -17,7 +17,7 @@
                 ],
                 "borderRadius": "none",
                 "borderColor": "border-dark",
-                "borderWidth": 1,
+                "borderWidth": 0,
                 "borderStyle": "dashed"
             }
         },
