@@ -4,9 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: >-
-        We connect you with the best dentists in town, ensuring access to
-        top-rated professionals for all your dental care needs. 
+      text: Dental Agency
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
