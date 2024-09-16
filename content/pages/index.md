@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Dental Assist Albania
-      color: text-dark
+      color: text-primary
       type: TitleBlock
     subtitle: >-
       We connect you with the best dentists in town, ensuring access to
