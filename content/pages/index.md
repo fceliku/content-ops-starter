@@ -94,7 +94,10 @@ sections:
         subtitle: Care
         text: >+
           We help you find top-rated dentists for your specific needs, while
-          also offering additional services such as: Teeth Whitening
+          also offering additional services such as: 
+
+
+          *   Teeth Whitening
 
 
           *   Laser Treatment
@@ -104,8 +107,6 @@ sections:
 
 
           *   Tooth Filling
-
-
 
         image:
           url: /images/icon2.svg
