@@ -1,13 +1,29 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
-        "altText": "Logo dark",
+        "altText": "vhjvv",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-0",
+                    "mt-0",
+                    "ml-0",
+                    "mb-0"
+                ],
+                "padding": [
+                    "pl-0",
+                    "pt-0",
+                    "pr-0",
+                    "pb-0"
+                ],
+                "borderRadius": "xx-small",
+                "borderColor": "border-dark",
+                "borderWidth": 1,
+                "borderStyle": "dashed"
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "elementId": "LOGO",
+        "url": "/images/DA (1).svg"
     },
     "primaryLinks": [
         {
@@ -37,8 +53,8 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
-            "altText": "Dropdown",
+            "label": "Services",
+            "altText": "Services",
             "links": [
                 {
                     "label": "Dropdown item",
@@ -71,8 +87,8 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Sign up",
-            "altText": "Sign up",
+            "label": "Contact us",
+            "altText": "Contact us",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -80,12 +96,13 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "Book Now",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
-            "type": "Button"
+            "type": "Button",
+            "altText": "Book Now"
         }
     ],
     "variant": "logo-left-primary-nav-centered",
