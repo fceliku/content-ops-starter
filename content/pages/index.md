@@ -62,7 +62,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: beyond simply connecting you with the best dentist.
     items:
       - type: FeaturedItem
         title: 500k
