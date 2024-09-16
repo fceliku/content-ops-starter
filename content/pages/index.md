@@ -35,7 +35,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/DA.svg
+      url: /images/Blue and White Illustration Dental Circle Brand Logo (2).png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
