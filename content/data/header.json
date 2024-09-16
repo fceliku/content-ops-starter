@@ -88,7 +88,7 @@
     "secondaryLinks": [
         {
             "label": "Contact us",
-            "altText": "Sign up",
+            "altText": "Contact us",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
