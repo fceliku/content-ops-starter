@@ -300,11 +300,7 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "Choosing Tirana for\_*dental\_*treatment abroad can help you save money, access high-quality care, enjoy a vacation, and experience a different culture.\n\n"
     actions: []
     media:
       title: Title of the video
