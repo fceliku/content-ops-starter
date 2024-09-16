@@ -251,7 +251,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: The Top 10 Best Dental Clinics in Tirana (2024)
     text: >+
       we take care of every detail, so you can focus on receiving the best
       dental care while enjoying a hassle-free experience.
