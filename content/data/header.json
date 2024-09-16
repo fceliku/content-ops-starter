@@ -10,10 +10,10 @@
                     "mb-2"
                 ],
                 "padding": [
-                    "pl-2",
-                    "pt-4",
-                    "pr-5",
-                    "pb-4"
+                    "pl-24",
+                    "pt-24",
+                    "pr-24",
+                    "pb-24"
                 ],
                 "borderRadius": "xx-small",
                 "borderColor": "border-dark",
