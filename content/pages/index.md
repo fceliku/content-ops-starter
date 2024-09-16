@@ -299,7 +299,7 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
+    subtitle: Dental Service
     text: "Choosing Tirana for\_*dental\_*treatment abroad can help you save money, access high-quality care, enjoy a vacation, and experience a different culture.\n\n"
     actions: []
     media:
