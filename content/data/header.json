@@ -18,7 +18,8 @@
                 ],
                 "borderRadius": "xx-small",
                 "borderColor": "border-dark",
-                "borderWidth": 1
+                "borderWidth": 1,
+                "borderStyle": "dashed"
             }
         },
         "type": "ImageBlock",
