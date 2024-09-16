@@ -1,5 +1,5 @@
 ---
-title: A Day in the Life of Our Development Team
+title: '1. Booking a Hotel: Ensuring Comfort from the Start'
 slug: life-of-our-development-team
 date: '2023-03-27'
 excerpt: >-
