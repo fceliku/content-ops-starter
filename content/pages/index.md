@@ -8,13 +8,11 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
+    text: >+
       *Whether you're seeking specialized treatments or routine care, our
       service matches you with experienced, trusted dentists dedicated to
       providing high-quality care and patient satisfaction.*
 
-
-      <https://wa.me/+355682880037>
     actions:
       - label: Get started
         altText: ''
