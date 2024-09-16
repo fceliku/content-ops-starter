@@ -157,7 +157,7 @@ sections:
     actions:
       - label: Contact Now
         altText: ''
-        url: /
+        url: wa.me/+355682880037
         showIcon: false
         icon: arrowRight
         iconPosition: right
