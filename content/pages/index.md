@@ -65,7 +65,7 @@ sections:
     subtitle: beyond simply connecting you with the best dentist.
     items:
       - type: FeaturedItem
-        title: 500k
+        title: 1k
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
