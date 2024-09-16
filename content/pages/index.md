@@ -14,7 +14,7 @@ sections:
       providing high-quality care and patient satisfaction.*
 
     actions:
-      - label: Get started
+      - label: Contact us
         altText: ''
         url: /
         showIcon: false
