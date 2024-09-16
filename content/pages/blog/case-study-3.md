@@ -87,19 +87,23 @@ styles:
     flexDirection: col
 type: PostLayout
 ---
-
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor.
-
-Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
-
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum.
-
-> Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+> **Dental surgery is a surgical procedure performed to remove one or more infected or damaged teeth. It can also be performed to remove an infected tooth root that cannot be treated with endodontic therapy.**
 >
-> _By Laura Gómez - Product Marketing Manager_
+> **Before surgery, the patient may need an X-ray scan or a CT-scan to help the dentist assess the depth and condition of the tooth. The surgeon may use a local anesthetic to numb the area of the mouth where the procedure will be performed, and in some cases, general anesthesia will be needed.**
+>
+> **Generally, the dental surgery procedure involves making a small incision on the tongue, roof of the mouth, or anywhere else that may be needed, to reach the infected tooth or root. The surgeon will then remove the infected tooth or root from the bone, using special dental surgery tools. After surgery, the patient should follow the dental surgeon's instructions to minimize discomfort and facilitate the healing process. This may include the use of analgesics and eating bland foods. Dental surgery is a serious procedure and may be necessary to cure a tooth infection or relieve pain.**
+>
+> **Other surgical services are tooth extraction, tooth implantation, treatment of cysts or tumors, and correction of mouth opening disorders.**
+>
+> **Tooth extraction is a common procedure in dental surgery, which is performed in various cases, such as broken, infected teeth, or those that cannot be fixed with any other treatment. In this procedure, the doctor can use local or complete anesthesia, depending on the case and the sensitivity of the patient.**
+>
+> **Dental implant is another surgical procedure which is used to replace a removed tooth. In this procedure, a dental implant is placed in the bone of the tooth and grows over time to create a stable base for a dental crown or denture. The Bluetooth dental clinic uses advanced technology to ensure that dental implants are placed with precision and provide a durable and healthy result.**
+>
+> **Treatment of cysts and tumors in the tooth skull and neck is another surgical procedure that can be offered by the Bluetooth dental clinic. These problems can be caused by an illness or injury, and the doctor can use surgical techniques to remove the cyst and tumor, as well as to ensure that the risk of their recurrence is reduced.**
+>
+> **Correction of mouth opening disorders is another surgical procedure that can be offered by the Bluetooth dental clinic. This may involve using surgical techniques to adjust the opening of the mouth, the so-called "temporomandibular joint" or TMJ. This procedure can help relieve pain and discomfort.**
+>
+>
+>
+>
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
-
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
-
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
