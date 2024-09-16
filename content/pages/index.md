@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/terapi-400x370.jpg
+      url: /images/Blue Clean Dentist Instagram Post.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
