@@ -334,7 +334,7 @@ sections:
       text: 'Social Media '
       color: text-dark
       type: TitleBlock
-    subtitle: Follow us
+    subtitle: Follow us for more...
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
