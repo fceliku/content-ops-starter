@@ -96,7 +96,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "Book Now",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
