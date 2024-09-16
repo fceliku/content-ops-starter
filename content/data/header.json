@@ -15,7 +15,8 @@
                     "pt-4",
                     "pr-5",
                     "pb-4"
-                ]
+                ],
+                "borderRadius": "xx-small"
             }
         },
         "type": "ImageBlock",
