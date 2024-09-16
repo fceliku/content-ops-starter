@@ -1,7 +1,10 @@
 ---
 title: >-
-  The Complete Guide to Exceptional Customer Service in a Dental Agency: From
-  Booking a Hotel to Airport Transfer
+  Introduction.Customer service is the backbone of any successful dental agency.
+  Whether a patient is booking an appointment or navigating their way through a
+  series of services, a seamless and supportive experience is crucial. In this
+  blog, we'll explore the comprehensive approach to customer service in a dental
+  agency, covering everything from booking a hotel to airport transfers.
 slug: top-ten-lessons-we-learned
 date: '2021-08-25'
 excerpt: >-
