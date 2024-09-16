@@ -129,10 +129,14 @@ sections:
         type: FeaturedItem
       - title: 200%
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Booking a stay at a trusted hotel for your visit.Arranging smooth and
+          reliable transfers to and from the dental clinic.Handling all
+          necessary appointments with your selected dentist.
+
+
+
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
