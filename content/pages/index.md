@@ -92,10 +92,10 @@ sections:
               borderRadius: x-large
       - title: 20x
         subtitle: Care
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          We help you find top-rated dentists for your specific needs, while
+          also offering additional services such as:
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
