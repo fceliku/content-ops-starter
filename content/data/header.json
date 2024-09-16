@@ -22,7 +22,8 @@
             }
         },
         "type": "ImageBlock",
-        "elementId": "LOGO"
+        "elementId": "LOGO",
+        "url": "/images/DA.svg"
     },
     "primaryLinks": [
         {
