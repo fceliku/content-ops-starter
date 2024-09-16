@@ -91,7 +91,7 @@ sections:
             self:
               borderRadius: x-large
       - title: 5+
-        subtitle: Care
+        subtitle: Years Care
         text: >+
           We help you find top-rated dentists for your specific needs, while
           also offering additional services such as: 
