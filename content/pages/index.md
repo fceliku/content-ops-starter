@@ -66,7 +66,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 1k
-        subtitle: Numbers Done
+        subtitle: Happy Clients
         text: "We provide a comprehensive experience that ensures your comfort and convenience from start to finish.\_\n\n"
         actions: []
         elementId: null
