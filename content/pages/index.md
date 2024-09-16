@@ -159,7 +159,7 @@ sections:
         altText: ''
         url: wa.me/+355682880037
         showIcon: true
-        icon: arrowRight
+        icon: send
         iconPosition: right
         style: primary
         elementId: ''
