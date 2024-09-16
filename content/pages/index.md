@@ -25,11 +25,11 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: Whatsapp
         altText: ''
-        url: wa.me/+355682880037
+        url: 'https://wa.me/+355682880037'
         showIcon: true
-        icon: arrowRight
+        icon: send
         iconPosition: right
         style: primary
         elementId: ''
@@ -62,15 +62,12 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: beyond simply connecting you with the best dentist.
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: 1k+
+        subtitle: Happy Clients
+        text: "We provide a comprehensive experience that ensures your comfort and convenience from start to finish.\_\n\n"
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -93,12 +90,24 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: 5+
+        subtitle: Years Care
+        text: >+
+          We help you find top-rated dentists for your specific needs, while
+          also offering additional services such as: 
+
+
+          *   Teeth Whitening
+
+
+          *   Laser Treatment
+
+
+          *   Dental Implants
+
+
+          *   Tooth Filling
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -120,10 +129,14 @@ sections:
         type: FeaturedItem
       - title: 200%
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Booking a stay at a trusted hotel for your visit.Arranging smooth and
+          reliable transfers to and from the dental clinic.Handling all
+          necessary appointments with your selected dentist.
+
+
+
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -142,17 +155,17 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Contact Now
         altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
+        url: 'https://wa.me/+355682880037'
+        showIcon: true
+        icon: send
         iconPosition: right
         style: primary
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Our dental care service
       color: text-primary
       styles:
         self:
@@ -232,21 +245,20 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: With our all-in-one service
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: The Top 10 Best Dental Clinics in Tirana (2024)
+    text: >+
+      we take care of every detail, so you can focus on receiving the best
+      dental care while enjoying a hassle-free experience.
+
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: 'https://www.youtube.com/watch?v=X9J2ea8iNnM'
       controls: false
       aspectRatio: '16:9'
       styles:
@@ -281,22 +293,18 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Our main location
       color: text-dark
       styles:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: Dental Service
+    text: "Choosing Tirana for\_*dental\_*treatment abroad can help you save money, access high-quality care, enjoy a vacation, and experience a different culture.\n\n"
     actions: []
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: 'https://www.youtube.com/watch?v=Su6MSRLoHJ8'
       autoplay: true
       loop: true
       muted: true
@@ -323,13 +331,12 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Social Media Management
+      text: 'Social Media '
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    subtitle: Follow us for more...
+    text: |
+      Stay connected with latest offer!
     actions:
       - label: Get started
         url: /
@@ -349,49 +356,13 @@ sections:
       altText: Fun feature preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Our
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
     styles:
       self:
         alignItems: center
-    type: GenericSection
-  - title:
-      text: Business Consulting
-      color: text-dark
-      type: TitleBlock
-    subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/hero3.svg
-      altText: Dope design preview
-      type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
     type: GenericSection
   - title: Divider
     colors: bg-light-fg-dark
@@ -719,6 +690,7 @@ sections:
           placeholder: Your message
           width: full
           type: TextareaFormControl
+          isRequired: true
       elementId: contact-form
       styles:
         self:
