@@ -9,7 +9,7 @@ excerpt: >-
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
   url: /images/kirurgji.jpg
-  altText: Case study 3
+  altText: Surgery
   styles:
     self:
       borderRadius: x-large
