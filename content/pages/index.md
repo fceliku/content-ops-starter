@@ -29,7 +29,7 @@ sections:
         altText: ''
         url: 'https://wa.me/+355682880037'
         showIcon: true
-        icon: arrowRight
+        icon: send
         iconPosition: right
         style: primary
         elementId: ''
