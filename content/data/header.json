@@ -22,7 +22,7 @@
             }
         },
         "type": "ImageBlock",
-        "elementId": "<style>  #{    width: -1000%; /* Adjust the percentage as needed */    height: auto; /* Keeps the aspect ratio */  }</style>"
+        "elementId": ""
     },
     "primaryLinks": [
         {
