@@ -10,10 +10,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: "## We connect you\_with the\_best dentists in\_town, ensuring access to\_top-rated professionals for\_all\_your dental\_care needs.\_\n\n\n\n\n"
     actions:
       - label: Get started
         altText: ''
