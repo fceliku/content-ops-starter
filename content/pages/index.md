@@ -27,7 +27,7 @@ sections:
         type: Button
       - label: See Tutorials
         altText: ''
-        url: wa.me/+355682880037
+        url: 'https://wa.me/+355682880037'
         showIcon: true
         icon: arrowRight
         iconPosition: right
