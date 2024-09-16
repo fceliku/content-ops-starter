@@ -87,15 +87,17 @@ styles:
     flexDirection: col
 type: PostLayout
 ---
+**Orthodontics is the field of dentistry that deals with the direction of the teeth and aims to improve the function and aesthetics of the mouth. German aligners are used to reposition teeth and correct a variety of dental problems, such as gaps between teeth, narrowing of spaces, or spaces that are larger than they should be.**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+**Our specialized department provides comprehensive care for patients with orthodontic problems. Every patient is unique and so are their problems. Treatment at the BlueTooth Dental Clinic has several advantages:**
 
-> Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
->
-> _By Clara White - VP of Marketing_
+**– Complex treatment. If a patient decides to undergo orthodontic treatment in our clinic, we take photos of his teeth before and after treatment, panoramic and cephalometric graphs, hand graphs to determine the patient's problem. Then in the production of the study models, we analyze and design the treatment plan.**
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+**For any orthodontic treatment, proper oral hygiene is essential because the application of a fixed or removable appliance creates a rapid deposition of tartar.**
 
-![](/images/img-placeholder.svg)
+**Each patient will receive advice on dental hygiene and detailed instructions on how to care. The patient is always sure that the best materials are used. This procedure can be a bit difficult at first and the patient may feel a slight pressure or a slight pain sensation in their teeth at the beginning of the treatment.**
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+**However, after a few days or weeks, these sensations will subside and the patient will begin to feel better. In addition to correcting dental problems, German braces can help improve oral hygiene and prevent other dental problems, such as tooth decay and periodontitis.**
+
+
+
