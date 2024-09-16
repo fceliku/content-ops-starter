@@ -10,7 +10,7 @@
             }
         },
         "type": "ImageBlock",
-        "elementId": "100x00"
+        "elementId": "<style>  #myImage {    width: 50%; /* Adjust the percentage as needed */    height: auto; /* Keeps the aspect ratio */  }</style>"
     },
     "primaryLinks": [
         {
