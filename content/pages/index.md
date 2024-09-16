@@ -90,7 +90,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
+      - title: 5+
         subtitle: Care
         text: >+
           We help you find top-rated dentists for your specific needs, while
