@@ -25,7 +25,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: Whatsapp
         altText: ''
         url: 'https://wa.me/+355682880037'
         showIcon: true
