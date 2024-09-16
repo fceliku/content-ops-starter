@@ -14,11 +14,7 @@ sections:
       providing high-quality care and patient satisfaction.*
 
 
-      [
-
-
-
-      ](https://wa.me/+355682880037)
+      <https://wa.me/+355682880037>
     actions:
       - label: Get started
         altText: ''
