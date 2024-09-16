@@ -300,7 +300,7 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Dental Service
-    text: "Choosing Tirana for\_*dental\_*treatment abroad can help you save money, access high-quality care, enjoy a vacation, and experience a different culture.\n\n"
+    text: "Choosing Tirana for\_\\*dental\_\\*treatment abroad can help you save money, access high-quality care, enjoy a vacation, and experience a different culture.\n\n> Tirana / Kamez / QSUT\n\n**Monday** - **Saturday 9** :am - **4** :pm\n\nSunday - Closed\n"
     actions: []
     media:
       title: Title of the video
