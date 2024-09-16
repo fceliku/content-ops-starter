@@ -245,7 +245,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: With our all-in-one service
       color: text-dark
       styles:
         self:
