@@ -335,9 +335,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Follow us for more...
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: |
+      Stay connected with latest offer!
     actions:
       - label: Get started
         url: /
