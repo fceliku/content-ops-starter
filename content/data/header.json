@@ -9,7 +9,8 @@
                 ]
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "elementId": "100x00"
     },
     "primaryLinks": [
         {
