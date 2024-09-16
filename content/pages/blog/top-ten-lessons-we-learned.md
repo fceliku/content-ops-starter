@@ -26,10 +26,6 @@ styles:
 type: PostLayout
 author: content/data/person1.json
 ---
-****
-
-##
-
 Exceptional customer service in a dental agency involves a holistic approach that starts from the very first interaction and extends to the patient’s journey home. By focusing on every detail—from hotel bookings to airport transfers—you create a supportive and memorable experience that reflects the high standards of your practice. Emphasizing care and efficiency at every touchpoint will not only enhance patient satisfaction but also build lasting relationships and positive referrals.
 
 Remember, excellent customer service is not just about meeting expectations; it’s about exceeding them and making every step of the patient’s journey as smooth and pleasant as possible.
