@@ -10,10 +10,10 @@
                     "mb-9"
                 ],
                 "padding": [
-                    "pl-24",
-                    "pt-24",
-                    "pr-24",
-                    "pb-24"
+                    "pl-0",
+                    "pt-0",
+                    "pr-0",
+                    "pb-0"
                 ],
                 "borderRadius": "xx-small",
                 "borderColor": "border-dark",
