@@ -65,7 +65,7 @@ sections:
     subtitle: beyond simply connecting you with the best dentist.
     items:
       - type: FeaturedItem
-        title: 1k
+        title: 1k+
         subtitle: Happy Clients
         text: "We provide a comprehensive experience that ensures your comfort and convenience from start to finish.\_\n\n"
         actions: []
