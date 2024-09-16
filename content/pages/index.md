@@ -40,7 +40,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Dental Assist Albania
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''
